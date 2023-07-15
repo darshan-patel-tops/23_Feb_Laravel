@@ -9,7 +9,10 @@ class controller
         require_once("view/index.php");
 
     }
+  
 
 }
 $object =  new controller;
+// $object->check();
+
 ?>
